@@ -1,0 +1,4 @@
+#ruta a la carpeta donde de escriben los archivos de contacto
+#ej. /etc/icinga/objects/contacts
+#se debe poder escribir en la misma
+/etc/icinga/objects/contacts
