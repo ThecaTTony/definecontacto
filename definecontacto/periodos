@@ -1,0 +1,6 @@
+#lista de ejemplo de periodos de notificación
+#los mismos deben estar declarados en Icinga/Nagios, se declaran aquí solo para referencia del script
+#'nombre','descripcion'
+always,Siempre
+nonworkhours,Horas no laborales
+workhours,Horas laborales
